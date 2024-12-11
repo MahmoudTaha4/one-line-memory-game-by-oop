@@ -80,5 +80,6 @@ void GameBoard::gameBoardAndNumbers(int firstIndex, int secondIndex) {
 void GameBoard::clearBoard() {
     sleep(2);
     system("cls");
+
 }
 
