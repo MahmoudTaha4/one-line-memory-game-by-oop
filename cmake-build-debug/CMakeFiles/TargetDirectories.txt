@@ -1,0 +1,3 @@
+C:/programming projects/one line memory game/cmake-build-debug/CMakeFiles/one_line_memory_game.dir
+C:/programming projects/one line memory game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/programming projects/one line memory game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
